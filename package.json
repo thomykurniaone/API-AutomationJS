@@ -1,0 +1,28 @@
+{
+  "name": "api-automationjs",
+  "version": "1.0.0",
+  "description": "API-AutomationJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomykurniaone/API-AutomationJS.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Thomy Kurniawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomykurniaone/API-AutomationJS/issues"
+  },
+  "homepage": "https://github.com/thomykurniaone/API-AutomationJS#readme",
+  "dependencies": {
+    "chai": "^5.1.0",
+    "jsonschema": "^1.4.1",
+    "mocha": "^10.4.0",
+    "supertest": "^7.0.0"
+  }
+}
